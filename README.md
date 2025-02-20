@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAV3RiXD
 - 👀 I’m interested in: Networking and making connections(with a slice of fun :P)
-- 🌱 I’m currently learning: Java, HTML,C++
+- 🌱 I’m currently learning: Java, Python,C,C++
 - 💞️ I’m looking to collaborate on: anything available.
 - 📫 How to reach me: mail - devanshdurgapur@gmail.com
 - 😄 Pronouns: he/him
